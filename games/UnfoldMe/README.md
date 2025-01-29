@@ -3,6 +3,7 @@
 **Team Members:** Darren Su, Eddie Bian, Bianca Bian
 
 **How would you pitch your game in one line?**
+
 It's like Celeste meets Origami, where each minute unfolds into a new adventure along your paper buddy
 
 **What is the key mechanic(s) that make it fun?**
@@ -31,6 +32,8 @@ It's like Celeste meets Origami, where each minute unfolds into a new adventure 
 The game will compose of 3 chapters, 5 levels each, with scrolling platform
 
 **How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)?**
+
 This game will be level based, with each level introducing new puzzles, paper forms, and difficulties unfaced. These levels will compose of puzzles and obstales to be overcome by different mechanics themed around paper; you utilizing every aspect of your paper body to jounrey across the world. Every few levels will unlock new powers and mechanics (for the good and the ill)
+
 ---
 *Remember: Focus on gameplay mechanics and player experience. Save the details about story, art style, sound design, UI flowcharts, marketing plans, or achievements for later.*
